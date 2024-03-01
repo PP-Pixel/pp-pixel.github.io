@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0">
 <url>
-  <loc>https://pp-pixel.github.io/hp/</loc>
+  <loc>https://pp-pixel.github.io/</loc>
   <priority>1.0</priority>
   <lastmod>2024-01-21</lastmod>
   <changefreq>yearly</changefreq>
@@ -13,7 +13,7 @@
   <changefreq>never</changefreq>
 </url>
 <url>
-  <loc>https://pp-pixel.github.io/hp/index.html</loc>
+  <loc>https://pp-pixel.github.io/index.html</loc>
   <priority>0.5</priority>
   <lastmod>2024-01-21</lastmod>
   <changefreq>yearly</changefreq>
