@@ -8,13 +8,6 @@
   <mobile:mobile />
 </url>
 <url>
-  <loc>https://pp-pixel.github.io/csclub/hp/old/</loc>
-  <priority>0.1</priority>
-  <lastmod>2023-12-08</lastmod>
-  <changefreq>never</changefreq>
-  <mobile:mobile />
-</url>
-<url>
   <loc>https://pp-pixel.github.io/index.html</loc>
   <priority>0.5</priority>
   <lastmod>2024-01-21</lastmod>
