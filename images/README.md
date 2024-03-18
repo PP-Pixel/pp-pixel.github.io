@@ -16,9 +16,9 @@
 > ![p.ico](https://pp-pixel.github.io/images/p.ico)
 
 - [New_PP_Pixel_Bugdroid.png](https://pp-pixel.github.io/images/New_PP_Pixel_Bugdroid.png)
-- [New_PP_Pixel_Bugdroid.png](https://pp-pixel.github.io/images/New_PP_Pixel_Bugdroid-notback.png)
+- [New_PP_Pixel_Bugdroid-notback.png](https://pp-pixel.github.io/images/New_PP_Pixel_Bugdroid-notback.png)
 > ![New_PP_Pixel_Bugdroid.png](https://pp-pixel.github.io/images/New_PP_Pixel_Bugdroid.png)  
-> ![New_PP_Pixel_Bugdroid.png](https://pp-pixel.github.io/images/New_PP_Pixel_Bugdroid-notback.png)
+> ![New_PP_Pixel_Bugdroid-notback.png](https://pp-pixel.github.io/images/New_PP_Pixel_Bugdroid-notback.png)
 - [PP_Pixel-Bugdroid_BW.png](https://pp-pixel.github.io/images/PP_Pixel-Bugdroid_BW.png)
 - [PP_Pixel-Bugdroid_B.svg](https://pp-pixel.github.io/images/PP_Pixel-Bugdroid_B.svg)
 - [PP_Pixel-Bugdroid_W.svg](https://pp-pixel.github.io/images/PP_Pixel-Bugdroid_W.svg)
